@@ -7,4 +7,4 @@ Creating a new branch is quick.
 The secend day, test upload to github.
 Creating a new branch is quick and simple.
 --no-ff
-test stash
+test stas.
