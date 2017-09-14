@@ -9,3 +9,5 @@ Creating a new branch is quick and simple.
 --no-ff
 test stas.
 bug branch 'issue-101'
+stash again
+
